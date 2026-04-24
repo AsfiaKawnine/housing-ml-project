@@ -15,8 +15,9 @@ Kaggle House Prices dataset
 ## 🚀 Progress
 - [x] Project setup
 - [x] Initial EDA
-- [ ] Feature engineering
-- [ ] Model training
+- [x] Feature engineering
+- [x] Baseline + Random Forest model
+- [ ] Model saving
 - [ ] API deployment (FastAPI)
 - [ ] Dockerization
 
