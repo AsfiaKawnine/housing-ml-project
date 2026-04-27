@@ -17,7 +17,8 @@ Kaggle House Prices dataset
 - [x] Initial EDA
 - [x] Feature engineering
 - [x] Baseline + Random Forest model
-- [ ] Model saving
+- [x] ML pipeline (sklearn Pipeline)
+- [x] Model saved (.pkl)
 - [ ] API deployment (FastAPI)
 - [ ] Dockerization
 
