@@ -19,7 +19,7 @@ Kaggle House Prices dataset
 - [x] Baseline + Random Forest model
 - [x] ML pipeline (sklearn Pipeline)
 - [x] Model saved (.pkl)
-- [ ] API deployment (FastAPI)
+- [x] API deployment (FastAPI)
 - [ ] Dockerization
 
 ## 📁 Structure
@@ -31,3 +31,9 @@ Kaggle House Prices dataset
 - Handle missing values
 - Train baseline model
 - Build ML pipeline
+
+## 🚀 API Demo
+
+Below is the FastAPI endpoint in action:
+
+![API Demo](assests/Capture.PNG)
