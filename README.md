@@ -24,13 +24,11 @@ Kaggle House Prices dataset
 
 ## 📁 Structure
 - notebooks/ → EDA and experiments  
-- src/ → pipeline code (to be added)  
-- api/ → deployment code (to be added)
+- src/ → pipeline code
+- api/ → deployment code
 
 ## 📈 Next Steps
-- Handle missing values
-- Train baseline model
-- Build ML pipeline
+- Dockerization
 
 ## 🚀 API Demo
 
